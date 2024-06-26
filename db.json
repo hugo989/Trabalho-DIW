@@ -1,0 +1,78 @@
+{
+    "albuns": [
+      {
+        "id": 1,
+        "urlImagem": "js.png",
+        "titulo": "JavaScript",
+        "descricao": "JavaScript Basics"
+      },
+      {
+        "id": 2,
+        "urlImagem": "html.png",
+        "titulo": "HTML",
+        "descricao": "HTML Fundamentals"
+      },
+      {
+        "id": 3,
+        "urlImagem": "github.png",
+        "titulo": "GitHub",
+        "descricao": "Version Control with GitHub"
+      },
+      {
+        "id": 4,
+        "urlImagem": "cod.jpg",
+        "titulo": "Coding",
+        "descricao": "Advanced Coding Techniques"
+      },
+      {
+        "id": 5,
+        "urlImagem": "csharp.png",
+        "titulo": "C#",
+        "descricao": "C# Programming"
+      }
+    ],
+    "colegas": [
+      {
+        "id": 1,
+        "urlFoto": "eric.png",
+        "nome": "Eric Alixandre"
+      },
+      {
+        "id": 2,
+        "urlFoto": "Filipe.png",
+        "nome": "Filipe Ranufre"
+      },
+      {
+        "id": 3,
+        "urlFoto": "andromeda.png",
+        "nome": "Andrômeda Santos"
+      }
+    ],
+    "repositorios": [
+      {
+        "id": 1,
+        "nome": "Repositório 1",
+        "descricao": "Informações com as principais atuações do perfil.",
+        "estrelas": 7,
+        "watchers": 9,
+        "url": "repo1.html"
+      },
+      {
+        "id": 2,
+        "nome": "Repositório 2",
+        "descricao": "Informações com as principais atuações do perfil.",
+        "estrelas": 5,
+        "watchers": 8,
+        "url": "repo2.html"
+      },
+      {
+        "id": 3,
+        "nome": "Repositório 3",
+        "descricao": "Informações com as principais atuações do perfil.",
+        "estrelas": 3,
+        "watchers": 12,
+        "url": "repo3.html"
+      }
+    ]
+  }
+  
